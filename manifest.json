@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "pytest-issue-2419",
+  "versions": [
+    {
+      "commit": "1eab7a9c7a4bc579fcaa0f40f646e5136feec03a",
+      "parsed_at": "2026-10-11T09:09:34.399549+00:00",
+      "filetree": "filetree/1eab7a9c7a4bc579fcaa0f40f646e5136feec03a.nq.gz",
+      "blobs": [
+        "blob/0bb51f1201bf6498698f122e26b306bac0cdf544.nq.gz",
+        "blob/3cee8d2dfc766ae6d203b45a95c70b2d47d2e21a.nq.gz",
+        "blob/b4f78921f3e3bd6a2a9dfadfa40cf913b1bd0d50.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
